@@ -1,0 +1,4 @@
+transformers
+pytesseract
+pyyaml
+tesseract-ocr
